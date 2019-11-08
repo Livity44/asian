@@ -1,0 +1,295 @@
+{
+  "settings": {
+    "name": "My Site",
+    "currentPage": "page3.html",
+    "theme": {
+      "name": "mobirise4",
+      "title": "Mobirise 4",
+      "styling": {
+        "primaryColor": "#149dcc",
+        "secondaryColor": "#ff3366",
+        "successColor": "#F7ED4A",
+        "infoColor": "#82786E",
+        "warningColor": "#879A9F",
+        "dangerColor": "#B1A374",
+        "mainFont": "Rubik",
+        "display1Font": "Rubik",
+        "display1Size": 4.25,
+        "display2Font": "Rubik",
+        "display2Size": 3,
+        "display5Font": "Rubik",
+        "display5Size": 1.5,
+        "display7Font": "Rubik",
+        "display7Size": 1,
+        "display4Font": "Rubik",
+        "display4Size": 1,
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": [
+        "#000000"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "siteFonts": [],
+    "versionFirst": "4.7.6",
+    "uniqCompNum": 10,
+    "versionPublish": "4.11.4",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "page3.html": {
+      "settings": {
+        "title": "Page 1 ",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            }
+          },
+          "_name": "header2",
+          "_customHTML": "<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"http://2.bp.blogspot.com/-uNfRXLEgSt0/UnQshg1nD2I/AAAAAAAAALI/jPCZzJsyTaY/s1600/0c1e6f1391208ef52504d0e23c5b5b85o.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"200\" src=\"https://2.bp.blogspot.com/-uNfRXLEgSt0/UnQshg1nD2I/AAAAAAAAALI/jPCZzJsyTaY/s320/0c1e6f1391208ef52504d0e23c5b5b85o.jpg\" width=\"320\" /></a><a href=\"http://1.bp.blogspot.com/-wRmvDBWmOr4/UnQsz3SRHwI/AAAAAAAAALw/4MjpumHuh90/s1600/e9eabab53e7ce97b08a063c13ccb1030o.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em; text-align: center;\"><img border=\"0\" height=\"200\" src=\"https://1.bp.blogspot.com/-wRmvDBWmOr4/UnQsz3SRHwI/AAAAAAAAALw/4MjpumHuh90/s320/e9eabab53e7ce97b08a063c13ccb1030o.jpg\" width=\"320\" />&nbsp; &nbsp;</a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"http://3.bp.blogspot.com/-8aHXOm01UXA/UnQskj4jpXI/AAAAAAAAALQ/g-k86nB-Wt4/s1600/661f916d5dcef464bfde103799ab7a89o.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://3.bp.blogspot.com/-8aHXOm01UXA/UnQskj4jpXI/AAAAAAAAALQ/g-k86nB-Wt4/s320/661f916d5dcef464bfde103799ab7a89o.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"http://1.bp.blogspot.com/-_ngEICfSnmE/UnQsoFSWeVI/AAAAAAAAALc/gpLFYTD2dxA/s1600/05921c197c058b01e48f4dc505339867o.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"200\" src=\"https://1.bp.blogspot.com/-_ngEICfSnmE/UnQsoFSWeVI/AAAAAAAAALc/gpLFYTD2dxA/s320/05921c197c058b01e48f4dc505339867o.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"http://1.bp.blogspot.com/-P3VnoL__WCM/UnQsnenmUoI/AAAAAAAAALY/bI56vcPSSh4/s1600/a03df770fca1ec465f492aa688ccc095o.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://1.bp.blogspot.com/-P3VnoL__WCM/UnQsnenmUoI/AAAAAAAAALY/bI56vcPSSh4/s320/a03df770fca1ec465f492aa688ccc095o.jpg\" width=\"320\" /></a></div>\n<br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"http://2.bp.blogspot.com/-Zq4AMvnAlfE/UnQsxxjp_vI/AAAAAAAAALo/0owbgUPhYYc/s1600/e76061ffe39b29de29cce7b6cbfe6d59o.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"199\" src=\"https://2.bp.blogspot.com/-Zq4AMvnAlfE/UnQsxxjp_vI/AAAAAAAAALo/0owbgUPhYYc/s320/e76061ffe39b29de29cce7b6cbfe6d59o.jpg\" width=\"320\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b>A</b> <b>qui &nbsp;link de Descarga :</b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"color: blue; font-size: large;\"><br /></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"color: blue;\"><b><a href=\"http://adf.ly/Yet9T\"><span style=\"font-size: x-large;\">http://adf.ly/Yet9T</span></a></b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"color: blue; font-size: large;\"><b><br /></b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<br />",
+          "_cid": "rHdfKv25Y8",
+          "_anchor": "header2-3",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": "deltapi-code-editor",
+          "_isSecondary": true,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section": {
+              "text-align": "center",
+              "color": "#fff"
+            }
+          },
+          "_name": "custom-html",
+          "_customHTML": "<a href=\"https://www.popads.net/users/refer/2425266\"><img src=\"http://banners.popads.net/250x250.gif\" alt=\"PopAds.net - The Best Popunder Adnetwork\" /></a>",
+          "_cid": "rHdkleAuGB",
+          "_anchor": "custom-html-8",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": "deltapi-code-editor",
+          "_isSecondary": true,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section": {
+              "text-align": "center",
+              "color": "#fff"
+            }
+          },
+          "_name": "custom-html",
+          "_customHTML": "<script type=\"text/javascript\">\n    var adfly_id = 5448292;\n    var popunder_frequency_delay = 0;\n    var adfly_google_compliant = false;\n</script>\n<script src=\"https://cdn.adf.ly/js/display.js\"></script>",
+          "_cid": "rHdkG81hab",
+          "_anchor": "custom-html-9",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "html.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "content10",
+          "_customHTML": "<script type=\"text/javascript\">\n    var adfly_id = 5448292;\n    var adfly_advert = 'int';\n    var frequency_cap = 5;\n    var frequency_delay = 5;\n    var init_delay = 3;\n    var popunder = true;\n</script>\n<script src=\"https://cdn.adf.ly/js/entry.js\"></script>",
+          "_cid": "rHdh4GAw0D",
+          "_anchor": "content10-5",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "[class^=\"socicon-\"]:before, [class*=\" socicon-\"]:before": {
+              "line-height": "44px"
+            },
+            ".btn-social": {
+              "font-size": "20px",
+              "border-radius": "50%",
+              "padding": "0",
+              "width": "44px",
+              "height": "44px",
+              "line-height": "44px",
+              "text-align": "center",
+              "position": "relative",
+              "color": "rgb(35, 35, 35)",
+              "cursor": "pointer",
+              "i": {
+                "top": "0",
+                "line-height": "44px",
+                "width": "44px"
+              },
+              "&:hover": {
+                "color": "#fff",
+                "background": "@iconsColor",
+                "& i.socicon": {
+                  "color": "contrast(@iconsColor) !important"
+                }
+              },
+              "& + .btn": {
+                "margin-left": ".1rem"
+              },
+              "border-color": "@iconsColor"
+            },
+            "@media (max-width: 767px)": {
+              ".btn": {
+                "font-size": "20px !important"
+              }
+            }
+          },
+          "_name": "social-buttons1",
+          "_customHTML": "<script type=\"text/javascript\">\n    var adfly_id = 5448292;\n    var popunder_frequency_delay = 0;\n    var adfly_google_compliant = false;\n</script>\n<script src=\"https://cdn.adf.ly/js/display.js\"></script>\n",
+          "_cid": "rHdin7oWxh",
+          "_anchor": "social-buttons1-6",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            }
+          },
+          "_name": "header2",
+          "_customHTML": "<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"http://2.bp.blogspot.com/-uNfRXLEgSt0/UnQshg1nD2I/AAAAAAAAALI/jPCZzJsyTaY/s1600/0c1e6f1391208ef52504d0e23c5b5b85o.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"200\" src=\"https://2.bp.blogspot.com/-uNfRXLEgSt0/UnQshg1nD2I/AAAAAAAAALI/jPCZzJsyTaY/s320/0c1e6f1391208ef52504d0e23c5b5b85o.jpg\" width=\"320\" /></a><a href=\"http://1.bp.blogspot.com/-wRmvDBWmOr4/UnQsz3SRHwI/AAAAAAAAALw/4MjpumHuh90/s1600/e9eabab53e7ce97b08a063c13ccb1030o.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em; text-align: center;\"><img border=\"0\" height=\"200\" src=\"https://1.bp.blogspot.com/-wRmvDBWmOr4/UnQsz3SRHwI/AAAAAAAAALw/4MjpumHuh90/s320/e9eabab53e7ce97b08a063c13ccb1030o.jpg\" width=\"320\" />&nbsp; &nbsp;</a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"http://3.bp.blogspot.com/-8aHXOm01UXA/UnQskj4jpXI/AAAAAAAAALQ/g-k86nB-Wt4/s1600/661f916d5dcef464bfde103799ab7a89o.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://3.bp.blogspot.com/-8aHXOm01UXA/UnQskj4jpXI/AAAAAAAAALQ/g-k86nB-Wt4/s320/661f916d5dcef464bfde103799ab7a89o.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"http://1.bp.blogspot.com/-_ngEICfSnmE/UnQsoFSWeVI/AAAAAAAAALc/gpLFYTD2dxA/s1600/05921c197c058b01e48f4dc505339867o.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"200\" src=\"https://1.bp.blogspot.com/-_ngEICfSnmE/UnQsoFSWeVI/AAAAAAAAALc/gpLFYTD2dxA/s320/05921c197c058b01e48f4dc505339867o.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"http://1.bp.blogspot.com/-P3VnoL__WCM/UnQsnenmUoI/AAAAAAAAALY/bI56vcPSSh4/s1600/a03df770fca1ec465f492aa688ccc095o.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://1.bp.blogspot.com/-P3VnoL__WCM/UnQsnenmUoI/AAAAAAAAALY/bI56vcPSSh4/s320/a03df770fca1ec465f492aa688ccc095o.jpg\" width=\"320\" /></a></div>\n<br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"http://2.bp.blogspot.com/-Zq4AMvnAlfE/UnQsxxjp_vI/AAAAAAAAALo/0owbgUPhYYc/s1600/e76061ffe39b29de29cce7b6cbfe6d59o.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"199\" src=\"https://2.bp.blogspot.com/-Zq4AMvnAlfE/UnQsxxjp_vI/AAAAAAAAALo/0owbgUPhYYc/s320/e76061ffe39b29de29cce7b6cbfe6d59o.jpg\" width=\"320\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: large;\"><b>A</b> <b>qui &nbsp;link de Descarga :</b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"color: blue; font-size: large;\"><br /></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"color: blue;\"><b><a href=\"http://adf.ly/Yet9T\"><span style=\"font-size: x-large;\">http://adf.ly/Yet9T</span></a></b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"color: blue; font-size: large;\"><b><br /></b></span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<br />",
+          "_cid": "qTkA127IK8",
+          "_anchor": "header2-1",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background": "linear-gradient(0deg, @color2, @bg-value)"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-iconfont-social": {
+              "font-size": "32px",
+              "color": "@iconsColor"
+            },
+            ".social-list": {
+              "a:focus": {
+                "text-decoration": "none"
+              }
+            }
+          },
+          "_name": "social-buttons2",
+          "_customHTML": "<a href=\"https://www.popads.net/users/refer/2425266\"><img src=\"http://banners.popads.net/300x250.gif\" alt=\"PopAds.net - The Best Popunder Adnetwork\" /></a>",
+          "_cid": "rHdg1SZuL6",
+          "_anchor": "social-buttons2-4",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": "deltapi-code-editor",
+          "_isSecondary": true,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section": {
+              "text-align": "center",
+              "color": "#fff"
+            }
+          },
+          "_name": "custom-html",
+          "_customHTML": "<script type=\"text/javascript\">\n    var adfly_id = 5448292;\n    var popunder_frequency_delay = 0;\n    var adfly_google_compliant = false;\n</script>\n<script src=\"https://cdn.adf.ly/js/display.js\"></script>",
+          "_cid": "rHdjcyjKSM",
+          "_anchor": "custom-html-7",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    }
+  }
+}
